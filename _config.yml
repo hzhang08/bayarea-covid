@@ -1,0 +1,11 @@
+# basic options
+title: Bay Area Covid Updates
+author: Henry
+email: huthree@outlook.com
+description: updates for bay area covid counts
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
+theme: minima
